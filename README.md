@@ -50,29 +50,27 @@
 <body>
 
 <div class="container">
-  <img src="your-university-logo.png" alt="University Logo" style="width: 300px;">
+  <img src="ksu-logo2.png" alt="University Logo" style="width: 300px;">
   
   <h1>College of Computing and Software Engineering</h1>
 
   <div class="sidebar">
     <h3>Spring 2025</h3>
-    <p>CS 4999 - Senior Project</p>
+    <p>CS 4850 - Senior Project</p>
     <p>Team Color: Blue</p>
-    <p>Project ID: 42</p>
+    <p>Project ID: AT-1</p>
     <a href="Report.pdf" target="_blank">Project Report (PDF)</a>
     <a href="https://github.com/yourprojectrepo" target="_blank">GitHub Repository</a>
-    <a href="FinalVideoLink.mp4" target="_blank">Final Presentation Video</a>
+    <a href="https://youtu.be/vKUbZtAuK60" target="_blank">Final Presentation Video</a>
     <p><strong>Email us:</strong> <a href="mailto:yourgroupemail@example.com">Contact</a></p>
   </div>
 
   <div class="main-content">
-    <h2>Project Title: Smart Campus Navigator</h2>
+    <h2>Nano Drug Delivery Efficiency Prediction using Machine Learning </h2>
 
     <img src="your-photo.jpg" alt="Team Member Photo">
     <p><strong>John Doe</strong></p>
 
-    <img src="your-photo2.jpg" alt="Team Member Photo">
-    <p><strong>Jane Smith</strong></p>
 
     <p>Welcome to our project! All navigation links and project materials are accessible directly from this page without scrolling down.</p>
 
