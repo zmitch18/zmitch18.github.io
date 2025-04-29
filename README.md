@@ -58,7 +58,7 @@
     <h3>Spring 2025</h3>
     <p>CS 4850 - Senior Project</p>
     <p>Project ID: AT-1</p>
-    <a href="Final AT-1 —Nano Drug Delivery Efficiency Prediction using Machine Learning.docx.pdf" target="_blank">Project Report (PDF)</a>
+    <a href="aFinal_AT-1_Nano_Drug Delivery_Efficiency_Prediction" target="_blank">Project Report (PDF)</a>
     <a href="https://github.com/yourprojectrepo" target="_blank">GitHub Repository</a>
     <a href="https://youtu.be/vKUbZtAuK60" target="_blank">Final Presentation Video</a>
     <p><strong>Email us:</strong> <a href="mailto:zmitch18@students.kennesaw.com">Contact</a></p>
