@@ -69,7 +69,7 @@
     <h2>Nano Drug Delivery Efficiency Prediction using Machine Learning </h2>
 
     <img src="zach.png" alt="Team Member Photo">
-    <p><strong>John Doe</strong></p>
+    <p><strong>Zachary Mitchell</strong></p>
 
     <p>Welcome to our project! All navigation links and project materials are accessible directly from this page without scrolling down.</p>
 
