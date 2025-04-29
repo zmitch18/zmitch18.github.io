@@ -57,7 +57,6 @@
   <div class="sidebar">
     <h3>Spring 2025</h3>
     <p>CS 4850 - Senior Project</p>
-    <p>Team Color: Blue</p>
     <p>Project ID: AT-1</p>
     <a href="Final AT-1 —Nano Drug Delivery Efficiency Prediction using Machine Learning.docx.pdf" target="_blank">Project Report (PDF)</a>
     <a href="https://github.com/yourprojectrepo" target="_blank">GitHub Repository</a>
@@ -67,12 +66,9 @@
 
   <div class="main-content">
     <h2>Nano Drug Delivery Efficiency Prediction using Machine Learning </h2>
-
     <img src="zach.png" alt="Team Member Photo">
     <p><strong>Zachary Mitchell</strong></p>
-
     <p>Welcome to our project! All navigation links and project materials are accessible directly from this page without scrolling down.</p>
-
     <p>Copyright © 2025 Kennesaw State University</p>
   </div>
 </div>
