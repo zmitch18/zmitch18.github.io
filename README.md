@@ -58,7 +58,7 @@
     <h3>Spring 2025</h3>
     <p>CS 4850 - Senior Project</p>
     <p>Project ID: AT-1</p>
-    <a href="AT1-NanoBioTech-FinalReport.pdf" target="_blank">Project Report (PDF)</a>
+    <a href="AT1-NanoBio-Tech-FinalReport.pdf" target="_blank">Project Report (PDF)</a>
     <a href="https://github.com/zmitch18/zmitch18.github.io" target="_blank">GitHub Repository</a>
     <a href="https://youtu.be/vKUbZtAuK60" target="_blank">Final Presentation Video</a>
     <p><strong>Email us:</strong> <a href="mailto:zmitch18@students.kennesaw.com">Contact</a></p>
@@ -68,6 +68,8 @@
     <h2>Nano Drug Delivery Efficiency Prediction using Machine Learning </h2>
     <img src="zach.png" alt="Team Member Photo">
     <p><strong>Zachary Mitchell</strong></p>
+     <img src="zach.png" alt="Team Member Photo">
+    <p><strong>Nicholas Delarosa</strong></p>
     <p>Welcome to our project! All navigation links and project materials are accessible directly from this page without scrolling down.</p>
     <p>Copyright © 2025 Kennesaw State University</p>
   </div>
