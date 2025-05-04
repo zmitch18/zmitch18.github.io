@@ -68,8 +68,8 @@
     <h2>Nano Drug Delivery Efficiency Prediction using Machine Learning </h2>
     <img src="zach.png" alt="Team Member Photo">
     <p><strong>Zachary Mitchell</strong></p>
-      <img src="zach.png" alt="Team Member Photo">
-    <p><strong>Zachary Mitchell</strong></p>
+      <img src="nick.jpg" alt="Team Member Photo">
+    <p><strong>Nicholas Delarosa</strong></p>
     <p>Welcome to our project! All navigation links and project materials are accessible directly from this page without scrolling down.</p>
     <p>Copyright © 2025 Kennesaw State University</p>
   </div>
